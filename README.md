@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <p align="center">
   <img src="banner.png" alt="Ansari Mohd Ali " width="100%">
