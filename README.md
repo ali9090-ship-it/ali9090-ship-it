@@ -1,14 +1,6 @@
-
-STEP 1 — Upload the hero banner to your repo
-Download your banner from this link:
-https://static.prod-images.emergentagent.com/jobs/4a5396de-2b3f-47c0-9062-461f89e4fcfc/images/cfd3915c1b605214324ee88aea0800ef3624d45308f735b3639e29e2fbe63a5c.png
-Save it as banner.png
-In your ali9090-ship-it repo → Add file → Upload files → drop banner.png → Commit
-STEP 2 — Create/replace README.md with this exact code
-<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="./banner.png" alt="Ansari Mohd Ali - Data Analyst & AI/ML Engineer" width="100%"/>
+<img src="./banner.png" alt="Ansari Mohd Ali" width="100%"/>
 
 <a href="https://github.com/ali9090-ship-it">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=B.Tech+AIML+Student+%7C+Second+Year;Turning+Data+into+Business+Decisions;Building+Machine+Learning+Projects;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -24,10 +16,9 @@ STEP 2 — Create/replace README.md with this exact code
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
 ## About Me
 
-- Second-Year **B.Tech AIML** student with a strong focus on **Data Analytics** and **Applied Machine Learning**.
+- Second-Year **B.E AIML** student focused on **Data Analytics** and **Applied Machine Learning**.
 - **Mission:** Solve real-world business problems using data-driven decision making.
 - **Career Goal:** Become a professional **Data Analyst / ML Engineer** at a product-driven company.
 - **Currently learning:** Advanced SQL, Machine Learning, Statistics, and Deep Learning.
@@ -36,7 +27,6 @@ STEP 2 — Create/replace README.md with this exact code
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 ## Tech Stack
 
 <div align="center">
@@ -66,13 +56,12 @@ STEP 2 — Create/replace README.md with this exact code
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali9090-ship-it&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali9090-ship-it&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -102,24 +91,17 @@ STEP 2 — Create/replace README.md with this exact code
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
 ## Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Power BI Sales Dashboard** | Interactive sales analytics dashboard with KPIs, drill-downs, and forecasting. | Power BI, DAX, SQL |
 | **Tableau HR Analytics** | Storytelling dashboard analyzing attrition, performance & compensation. | Tableau, Excel |
 | **Excel Financial Dashboard** | Fully automated dashboard using Pivot Tables, Power Query & VBA. | Excel, VBA |
-| **ML Prediction Model** | End-to-end machine learning pipeline for real-world classification. | Python, scikit-learn |
+| **ML Prediction Model** | End-to-end ML pipeline for real-world classification. | Python, scikit-learn |
 | **Python Automation Suite** | Scripts that automate repetitive data cleaning & reporting tasks. | Python, Pandas |
 | **SQL Portfolio** | Complex queries, window functions, and analytics case studies. | MySQL, PostgreSQL |
 | **Portfolio Website** | Personal developer portfolio with dark theme and animations. | React, Tailwind |
-
-</div>
-
-> Pin these repositories on your profile for maximum recruiter impact.
 
 ---
 
@@ -192,7 +174,6 @@ STEP 2 — Create/replace README.md with this exact code
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
 </div>
