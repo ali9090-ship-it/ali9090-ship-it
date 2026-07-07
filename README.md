@@ -1,9 +1,12 @@
 <div align="center">
 
 <img src="./banner.png" alt="Ansari Mohd Ali" width="100%"/>
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 
 <a href="https://github.com/ali9090-ship-it">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=B.Tech+AIML+Student+%7C+Second+Year;Turning+Data+into+Business+Decisions;Building+Machine+Learning+Projects;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=B.Tech+AIML+Student+%7C+Second+Year;Turning+Data+into+Business+Decisions;Building+Machine+Learning+Projects;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;data visualization expert " alt="Typing SVG" />
 </a>
 
 <br/>
