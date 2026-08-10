@@ -47,31 +47,41 @@ My current interests span:
 
 <div align="center">
 
-**Languages**
+**🧮 Programming**
 
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 
-**Data & Analytics**
+**📊 Data Analytics & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-8B5CF6?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C1D95?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=flat-square&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-7C3AED?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Web & Frontend**
+**🤖 AI / ML Tools**
 
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
-**Databases**
+**🗄️ Databases**
 
-![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-**Tools & Platforms**
+**🛠️ Tools & Platforms**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+**🌐 Web & Frontend**
+
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Express](https://skillicons.dev/icons?i=express) ![Angular](https://skillicons.dev/icons?i=angular)
 
 </div>
 
@@ -142,18 +152,14 @@ Focus: Software Engineering fundamentals, moving toward Data Analytics & AI/ML s
 
 ## 🟣 Certifications
 
-> 🚧 Add your certification badges here as you complete courses — for example, AWS, Oracle, NPTEL, or Cisco certifications. Keeping this section limited to certifications you've actually earned keeps your profile credible to recruiters.
-
----
-
-## 🟣 Coding Profiles
-
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=codechef&logoColor=5B4638)](#)
+| Provider | Certificate | Issued | Credential ID |
+|---|---|:---:|---|
+| ![Tutedude](https://img.shields.io/badge/Tutedude-6D28D9?style=flat-square) | Data Analytics — Certificate of Completion | 26 Jun 2026 | `TD-ANSA-DA-1711` |
+| ![Physics Wallah](https://img.shields.io/badge/PW%20×%20Microsoft-FF7A00?style=flat-square) | Basics of Data Analytics | 13 Jun 2026 | `1f2be3dd-7d24-4b3c-a816-2a2536fca8c8` |
+| ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square) | Data Analytics Job Simulation (via Forage) | 7 Jul 2026 | `wyAYMaJ5B6qmAQGBX` |
+| ![Thiranex](https://img.shields.io/badge/Thiranex-1E3A8A?style=flat-square) | Data Analytics Internship (08 Jun – 07 Jul 2026) | 7 Jul 2026 | `THX-JUN0826-1264` |
 
 </div>
 
@@ -206,26 +212,39 @@ Focus: Software Engineering fundamentals, moving toward Data Analytics & AI/ML s
 
 ## 🟣 Current Focus
 
+<div align="center">
+
+| 📚 Learning | 🏗️ Building | 🔎 Exploring | 🎯 Open To |
+|---|---|---|---|
+| Python libs — Pandas, NumPy, Matplotlib, Seaborn | Data Analytics & AI/ML projects | Real-world datasets for analysis & visualization | Data Analyst internships |
+| Machine Learning with Scikit-learn | Interactive dashboards in Power BI & Tableau | Data cleaning & feature engineering workflows | AI/ML collaboration & study groups |
+| Advanced SQL & database management | Personal portfolio & professional presence | EDA techniques on new domains | Open-source contributions |
+| Business Intelligence & data viz techniques | Deloitte-style forensic/data-analysis case work | Cloud & AI/ML tooling ecosystem | Mentorship from working analysts/engineers |
+
+</div>
+
 ```yaml
-learning:
-  - Python libraries: Pandas, NumPy, Matplotlib, Seaborn
-  - Machine Learning with Scikit-learn
-  - Advanced SQL queries and database management
-  - Business Intelligence and data visualization techniques
-
-building:
-  - Data Analytics and AI/ML projects
-  - Interactive dashboards using Power BI and Tableau
-  - Personal portfolio and professional presence
-
-exploring:
-  - Real-world datasets for analysis and visualization
-  - Data cleaning and feature engineering workflows
-
-open_to:
-  - Data Analyst internships
-  - AI/ML collaboration and study groups
-  - Open-source contributions
+status:
+  role: "3rd Year B.E. Student"
+  track: "Data Analytics → AI/ML Engineering"
+  currently:
+    learning:
+      - Python: Pandas, NumPy, Matplotlib, Seaborn
+      - Machine Learning fundamentals with Scikit-learn
+      - Advanced SQL queries and database management
+      - Business Intelligence and data visualization techniques
+    building:
+      - Data Analytics and AI/ML projects
+      - Interactive dashboards using Power BI and Tableau
+      - Personal portfolio and professional presence
+    exploring:
+      - Real-world datasets for analysis and visualization
+      - Data cleaning and feature engineering workflows
+      - AI/ML tools: TensorFlow, PyTorch, OpenCV
+    open_to:
+      - Data Analyst internships
+      - AI/ML collaboration and study groups
+      - Open-source contributions
 ```
 
 ---
