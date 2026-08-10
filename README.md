@@ -47,41 +47,66 @@ My current interests span:
 
 <div align="center">
 
-**🧮 Programming**
+**🧮 Programming Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="48" height="48"/>
+
+<br/><br/>
 
 **📊 Data Analytics & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-8B5CF6?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C1D95?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-7C3AED?style=flat-square&logo=tableau&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" title="Seaborn" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" title="Plotly" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" title="Power BI" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" title="Tableau" width="48" height="48"/>&nbsp;&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+<br/><br/>
 
 **🤖 AI / ML Tools**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda" width="48" height="48"/>
+
+<br/><br/>
 
 **🗄️ Databases**
 
-![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="48" height="48"/>
+
+<br/><br/>
 
 **🛠️ Tools & Platforms**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" title="Google Colab" width="48" height="48"/>
+
+<br/><br/>
 
 **🌐 Web & Frontend**
 
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Express](https://skillicons.dev/icons?i=express) ![Angular](https://skillicons.dev/icons?i=angular)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" width="48" height="48"/>
 
 </div>
 
@@ -106,6 +131,23 @@ My current interests span:
 ## 🟣 Featured Projects
 
 <details open>
+<summary><b>🛍️ Customer Shopping Behavior Analysis</b></summary>
+<br/>
+
+An end-to-end data analytics project uncovering purchasing patterns and business insights from customer transaction data.
+
+| | |
+|---|---|
+| **Stack** | Python (Pandas), PostgreSQL, Power BI |
+| **Scale** | 3,900 purchase records across 18 data columns |
+| **Deliverables** | Presentation deck + interactive Power BI dashboard |
+| **Type** | Data Analytics / Business Intelligence |
+
+Cleaned and prepared the dataset by imputing missing review ratings with median values, engineered features like age groups and purchase frequency, and connected the dataset to PostgreSQL for structured analysis. Built a Power BI dashboard and presentation to surface key insights: revenue differences by gender, a "smart shopper" segment of high-value discount users, top-rated products, the impact of shipping preference on spend, and subscription-driven revenue share.
+
+</details>
+
+<details>
 <summary><b>🎓 AMS — Academic Management System</b></summary>
 <br/>
 
@@ -143,25 +185,66 @@ Applied SQL querying techniques — joins, aggregations, and subqueries — to a
 
 ## 🟣 Education
 
-**Bachelor of Engineering (B.E.)** — 3rd Year
-Focus: Software Engineering fundamentals, moving toward Data Analytics & AI/ML specialization
+**Bachelor of Engineering (B.E.)** — Computer Science & Engineering (AI/ML) — 3rd Year
+Specializing in Artificial Intelligence & Machine Learning, with a focused track toward **Data Analytics** and **Data Science**
 
-`Data Structures` `Python` `SQL` `Statistics` `Machine Learning Basics`
+`Data Structures` `Python` `SQL` `Statistics` `Machine Learning` `Data Visualization`
 
 ---
 
 ## 🟣 Certifications
 
-<div align="center">
+<details open>
+<summary><b>📜 Tutedude — Data Analytics</b></summary>
+<br/>
 
-| Provider | Certificate | Issued | Credential ID |
-|---|---|:---:|---|
-| ![Tutedude](https://img.shields.io/badge/Tutedude-6D28D9?style=flat-square) | Data Analytics — Certificate of Completion | 26 Jun 2026 | `TD-ANSA-DA-1711` |
-| ![Physics Wallah](https://img.shields.io/badge/PW%20×%20Microsoft-FF7A00?style=flat-square) | Basics of Data Analytics | 13 Jun 2026 | `1f2be3dd-7d24-4b3c-a816-2a2536fca8c8` |
-| ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square) | Data Analytics Job Simulation (via Forage) | 7 Jul 2026 | `wyAYMaJ5B6qmAQGBX` |
-| ![Thiranex](https://img.shields.io/badge/Thiranex-1E3A8A?style=flat-square) | Data Analytics Internship (08 Jun – 07 Jul 2026) | 7 Jul 2026 | `THX-JUN0826-1264` |
+Certificate of Completion for the **Tutedude Data Analytics** course.
 
-</div>
+| | |
+|---|---|
+| **Issued** | 26 June 2026 |
+| **Credential ID** | `TD-ANSA-DA-1711` |
+
+</details>
+
+<details>
+<summary><b>📜 Physics Wallah × Microsoft — Basics of Data Analytics</b></summary>
+<br/>
+
+Completed the **Basics of Data Analytics** program, co-branded with Microsoft.
+
+| | |
+|---|---|
+| **Issued** | 13 June 2026 |
+| **Credential ID** | `1f2be3dd-7d24-4b3c-a816-2a2536fca8c8` |
+
+</details>
+
+<details>
+<summary><b>📜 Deloitte (via Forage) — Data Analytics Job Simulation</b></summary>
+<br/>
+
+Completed a **Deloitte job simulation**, covering practical tasks in data analysis and forensic technology.
+
+| | |
+|---|---|
+| **Issued** | 7 July 2026 |
+| **Credential ID** | `wyAYMaJ5B6qmAQGBX` |
+
+</details>
+
+<details>
+<summary><b>📜 Thiranex — Data Analytics Internship</b></summary>
+<br/>
+
+Completed a **Data Analytics internship**, recognized with a Certificate of Achievement.
+
+| | |
+|---|---|
+| **Duration** | 08 Jun 2026 – 07 Jul 2026 |
+| **Credential ID** | `THX-JUN0826-1264` |
+
+</details>
 
 ---
 
@@ -223,35 +306,23 @@ Focus: Software Engineering fundamentals, moving toward Data Analytics & AI/ML s
 
 </div>
 
-```yaml
-status:
-  role: "3rd Year B.E. Student"
-  track: "Data Analytics → AI/ML Engineering"
-  currently:
-    learning:
-      - Python: Pandas, NumPy, Matplotlib, Seaborn
-      - Machine Learning fundamentals with Scikit-learn
-      - Advanced SQL queries and database management
-      - Business Intelligence and data visualization techniques
-    building:
-      - Data Analytics and AI/ML projects
-      - Interactive dashboards using Power BI and Tableau
-      - Personal portfolio and professional presence
-    exploring:
-      - Real-world datasets for analysis and visualization
-      - Data cleaning and feature engineering workflows
-      - AI/ML tools: TensorFlow, PyTorch, OpenCV
-    open_to:
-      - Data Analyst internships
-      - AI/ML collaboration and study groups
-      - Open-source contributions
-```
-
 ---
 
 ## 🟣 Connect With Me
 
 <div align="center">
+
+<a href="mailto:ansariali0006@gmail.com">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" title="Gmail" width="45" height="45"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohdali-cse" target="_blank">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" title="LinkedIn" width="45" height="45"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ali9090-ship-it" target="_blank">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-icon.svg" title="GitHub" width="45" height="45"/>
+</a>
+
+<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-ansariali0006%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdali--cse-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
