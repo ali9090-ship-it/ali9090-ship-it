@@ -1,607 +1,243 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:312E81,55:6D28D9,80:4F46E5,100:0D1117&text=MOHD%20ALI%20ANSARI&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohd%20Ali&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=950&height=55&lines=3rd+Year+B.E.+Artificial+Intelligence+%26+Machine+Learning;Aspiring+Data+Analyst+%7C+AI%2FML+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Machine+Learning;Turning+Raw+Data+Into+Actionable+Business+Insights;Building+Data-Driven+%26+Intelligent+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B084F9&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;AI+%2F+ML+Engineering+Student;Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.-AI_%26_Machine_Learning-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/University-Mumbai-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graduation-2028-7C3AED?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+![Student](https://img.shields.io/badge/3rd%20Year-B.E%20Student-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Mumbai-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
+[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali9090-ship-it)
 
-<img src="https://img.shields.io/badge/Mumbai-Maharashtra,_India-4338CA?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_To-Internships-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Data_%7C_AI_%7C_ML-4F46E5?style=flat-square"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ali9090-ship-it&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ali9090-ship-it?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/ali9090-ship-it?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e)
 
-<br/><br/>
+</div>
 
-<a href="https://www.linkedin.com/in/mohdali-cse/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:ansariali0006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🟣 About Me
 
-<a href="https://github.com/mohdali-cse">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img align="right" width="280" src="https://camo.githubusercontent.com/2ed6c1fab4a0ca4c6b80c1cc5acdee9fca411ed25985bf1142aabb1dd3aea44b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c69393039302d736869702d6974267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" />
 
-<br/><br/>
+I'm **Mohd Ali**, a 3rd-year B.E. student building a foundation in **Data Analytics** and **AI/ML Engineering**. I'm focused on turning raw data into actionable insight — combining statistical thinking with hands-on programming across the full analytics stack: **Excel → SQL → Python → Power BI/Tableau → Machine Learning**.
 
-<img src="https://komarev.com/ghpvc/?username=mohdali-cse&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/mohdali-cse?label=FOLLOWERS&style=for-the-badge&color=4F46E5&logo=github&logoColor=white"/>
+My current interests span:
+
+- 📊 **Data Analysis & Visualization** — SQL querying, dashboarding, and storytelling with data
+- 🤖 **AI / ML Fundamentals** — supervised learning, model evaluation, and feature engineering with scikit-learn
+- 🧮 **Programming Foundations** — C, C++, Java, Python for problem-solving and automation
+- 🌐 **Full-Stack Basics** — HTML/CSS/TypeScript for building small applications and tools
+
+**🎯 Open To:** Data Analyst internships · AI/ML learning collaborations · Open-source contributions · Study groups on data science
+
+<br clear="right"/>
+
+---
+
+## 🟣 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![TypeScript](https://skillicons.dev/icons?i=ts)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8B5CF6?style=flat-square&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=flat-square&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-7C3AED?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Web & Frontend**
+
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+**Databases**
+
+![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+**Tools & Platforms**
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-```yaml
-name: "Mohd Ali Ansari"
-
-role:
-  - "Aspiring Data Analyst"
-  - "AI & Machine Learning Engineer"
-
-education:
-  degree: "Bachelor of Engineering"
-  specialization: "Artificial Intelligence & Machine Learning"
-  college: "M.H. Saboo Siddik College of Engineering"
-  university: "University of Mumbai"
-  graduation: 2028
-
-location: "Mumbai, Maharashtra, India"
-
-focus:
-  - "Data Analytics"
-  - "Machine Learning"
-  - "Business Intelligence"
-  - "Data Visualization"
-  - "Predictive Analytics"
-  - "Data-Driven Product Development"
-
-currently:
-  learning:
-    - "Advanced Python"
-    - "Machine Learning Algorithms"
-    - "Scikit-learn"
-    - "End-to-End Analytics"
-    - "AI/ML Project Development"
-
-open_to:
-  - "Data Analyst Internships"
-  - "AI/ML Internships"
-  - "Business Intelligence Opportunities"
-  - "Technical Collaborations"
-  - "Open Source Projects"
-```
-
-I am a **3rd-year B.E. Artificial Intelligence & Machine Learning student** with a strong interest in **Data Analytics, Business Intelligence, Machine Learning and Data Visualization**.
-
-My work focuses on converting **raw and complex datasets into meaningful insights**, developing interactive dashboards, performing exploratory data analysis, and building machine learning solutions for practical problems.
-
-I work with **Python, SQL, Excel, Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn** across the complete analytical workflow:
-
-> **Raw Data → Cleaning → EDA → Visualization → Modeling → Dashboard → Business Insights**
-
-I continuously strengthen my analytical thinking and engineering skills by building practical projects and solving real-world data problems.
-
----
-
-# 🛠️ Tech Stack
-
-## Programming & Query Languages
+## 🟣 AI / ML Learning Focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-312E81?style=for-the-badge&logo=postgresql&logoColor=white" height="45"/>
-
-</div>
-
-<br/>
-
-## Data Science & Machine Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-4F46E5?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-## Business Intelligence & Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-4F46E5?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-312E81?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## Development & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Jupyter-Notebook-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-Datasets-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white"/>
-
-</div>
-
----
-
-# 🤖 AI / ML & Data Expertise
-
-| Domain | Level | Expertise |
+| Domain | Proficiency | Details |
 |---|:---:|---|
-| **Data Cleaning** | █████████░ | Missing values, duplicates, formatting, outlier handling |
-| **Exploratory Data Analysis** | █████████░ | Statistical analysis, distributions, trends, correlations |
-| **Python Analytics** | ████████░░ | Pandas, NumPy, data manipulation and processing |
-| **SQL** | ████████░░ | Querying, filtering, aggregation and analytical workflows |
-| **Power BI** | █████████░ | Power Query, DAX, KPIs, interactive dashboards |
-| **Tableau** | ████████░░ | Business visualization and interactive analysis |
-| **Machine Learning** | ███████░░░ | Classification, regression and clustering |
-| **Scikit-learn** | ███████░░░ | Preprocessing, training and model evaluation |
-| **Data Visualization** | █████████░ | Matplotlib, Seaborn, Tableau and Power BI |
-| **Business Intelligence** | ████████░░ | Transforming data into decision-ready insights |
+| **Data Cleaning & Preprocessing** | 🟣🟣🟣⚪⚪ | Pandas/NumPy pipelines, handling missing data, feature engineering |
+| **Exploratory Data Analysis** | 🟣🟣🟣🟣⚪ | Statistical summaries, correlation analysis, visual storytelling |
+| **Supervised Machine Learning** | 🟣🟣⚪⚪⚪ | Regression & classification basics with scikit-learn |
+| **Data Visualization** | 🟣🟣🟣🟣⚪ | Power BI, Tableau, Matplotlib, Seaborn dashboards |
+| **SQL for Analytics** | 🟣🟣🟣🟣⚪ | Joins, window functions, aggregation, query optimization |
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🟣 Featured Projects
 
-<details>
-<summary><b>📊 HR Analytics Dashboard — Power BI</b></summary>
-
+<details open>
+<summary><b>🎓 AMS — Academic Management System</b></summary>
 <br/>
 
-### Overview
+A system built to manage and streamline academic records and workflows.
 
-Developed an interactive **HR Analytics Dashboard** to analyze employee attrition and workforce trends and help HR teams identify patterns associated with employee turnover.
-
-| Engineering Area | Details |
+| | |
 |---|---|
-| **Tech Stack** | Power BI · Power Query · DAX · Data Modeling |
-| **Dataset Scale** | 961 employees analyzed |
-| **Core KPI** | 133 employee attritions |
-| **Attrition Rate** | 13.8% |
-| **Analytics** | Age · Salary · Education · Department · Job Role |
-| **Business Impact** | Identifies workforce segments with higher attrition risk |
+| **Stack** | TypeScript |
+| **Type** | Academic / Management System |
+| **Repository** | [ali9090-ship-it/AMS](https://github.com/ali9090-ship-it/AMS) |
 
-### Key Insights
-
-- Employees aged **26–35** showed the highest attrition.
-- Employees earning **up to 5K** recorded higher attrition.
-- **Laboratory Technicians** represented a major attrition segment.
-- **Life Sciences** showed significant attrition by education field.
-- Interactive KPIs enable fast workforce analysis.
-
-### Engineering Workflow
-
-```text
-Raw HR Dataset
-       ↓
-Data Cleaning
-       ↓
-Power Query Transformation
-       ↓
-Data Modeling
-       ↓
-DAX Measures
-       ↓
-KPI Development
-       ↓
-Interactive Dashboard
-       ↓
-Business Insights
-```
+Built to explore structured application design and TypeScript fundamentals through a practical, real-world use case — managing academic data in an organized, maintainable way.
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>🌡️ Temperature Prediction — Machine Learning</b></summary>
-
+<summary><b>🎵 SQL Music Store Analysis</b></summary>
 <br/>
 
-### Overview
+A SQL-based analytics project exploring a music store dataset to extract business insights.
 
-Built a machine learning project using **historical Delhi climate data** to analyze weather trends and develop a temperature prediction workflow.
-
-| Engineering Area | Details |
+| | |
 |---|---|
-| **Tech Stack** | Python · Pandas · NumPy · Matplotlib · Scikit-learn |
-| **Dataset** | Historical Delhi Climate Dataset |
-| **Source** | Kaggle |
-| **Modeling** | Predictive Machine Learning |
-| **Algorithm Focus** | Random Forest |
-| **Impact** | Demonstrates practical predictive analytics workflow |
+| **Stack** | SQL |
+| **Type** | Data Analysis |
+| **Repository** | [ali9090-ship-it/SQL-Music-Store-Analysis](https://github.com/ali9090-ship-it/SQL-Music-Store-Analysis) |
 
-### ML Pipeline
-
-```text
-Historical Dataset
-       ↓
-Data Inspection
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-Feature Preparation
-       ↓
-Train / Test Split
-       ↓
-Machine Learning Model
-       ↓
-Model Evaluation
-       ↓
-Temperature Prediction
-```
+Applied SQL querying techniques — joins, aggregations, and subqueries — to answer real business questions about sales, customers, and catalog performance.
 
 </details>
 
-<br/>
-
-<details>
-<summary><b>🎯 Customer Segmentation — K-Means Clustering</b></summary>
-
-<br/>
-
-### Overview
-
-Built an **unsupervised machine learning solution** to segment customers according to income and spending behavior.
-
-| Engineering Area | Details |
-|---|---|
-| **Tech Stack** | Python · Pandas · Matplotlib · Seaborn · Scikit-learn |
-| **Algorithm** | K-Means Clustering |
-| **Preprocessing** | StandardScaler |
-| **Features** | Annual Income · Spending Score |
-| **Output** | 4 meaningful customer segments |
-| **Business Impact** | Supports targeted customer and marketing strategies |
-
-### Customer Segments
-
-| Segment | Business Interpretation |
-|---|---|
-| Low Income + Low Spending | Discount-Oriented Customers |
-| High Income + High Spending | Premium Customers |
-| High Income + Low Spending | Marketing Opportunity |
-| Low Income + High Spending | Potential Loyal Customers |
-
-### ML Workflow
-
-```text
-Customer Dataset
-       ↓
-Exploratory Analysis
-       ↓
-Feature Selection
-       ↓
-Feature Scaling
-       ↓
-K-Means Clustering
-       ↓
-Cluster Identification
-       ↓
-Visualization
-       ↓
-Business Interpretation
-```
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>📈 Sales & Revenue Analytics Dashboard — Microsoft Excel</b></summary>
-
-<br/>
-
-### Overview
-
-Created an interactive **Sales & Revenue Dashboard** using an e-commerce dataset containing customer demographics, product categories, order information, sales channels and revenue.
-
-| Engineering Area | Details |
-|---|---|
-| **Tech Stack** | Microsoft Excel |
-| **Data Preparation** | Cleaning · Validation · Formatting |
-| **Analytics** | Pivot Tables · Pivot Charts |
-| **Interactivity** | Slicers · Filters |
-| **Reporting** | KPI Analysis |
-| **Business Impact** | Customer, product and channel performance analysis |
-
-### Key Findings
-
-- Women contributed approximately **62% of total sales revenue**.
-- Adults were the strongest purchasing customer segment.
-- Around **92% of orders were successfully delivered**.
-- **Amazon** generated the highest number of orders among analyzed sales channels.
-- **Maharashtra and Karnataka** emerged as major performing states.
-
-### Analytics Workflow
-
-```text
-Raw E-Commerce Data
-        ↓
-Data Cleaning
-        ↓
-Data Validation
-        ↓
-Pivot Tables
-        ↓
-Pivot Charts
-        ↓
-Slicers & Filters
-        ↓
-KPI Analysis
-        ↓
-Interactive Dashboard
-```
-
-</details>
+> More projects are actively in progress as part of my Data Analytics & AI/ML learning journey — check my [repositories](https://github.com/ali9090-ship-it?tab=repositories) for the latest.
 
 ---
 
-# 💼 Experience
+## 🟣 Education
 
-## Data Analyst Intern — Thiranex
+**Bachelor of Engineering (B.E.)** — 3rd Year
+Focus: Software Engineering fundamentals, moving toward Data Analytics & AI/ML specialization
 
-**June 2026 – July 2026**
+`Data Structures` `Python` `SQL` `Statistics` `Machine Learning Basics`
 
-Worked on practical data analytics projects involving **data cleaning, visualization, dashboard creation, reporting and business insight generation**.
+---
 
-### Scope of Work
+## 🟣 Certifications
 
-- Cleaned and prepared real-world datasets for analysis.
-- Performed exploratory analysis to discover trends and patterns.
-- Built interactive dashboards for KPI tracking.
-- Created data visualizations for better business understanding.
-- Used Excel for analytical reporting and data manipulation.
-- Applied SQL concepts for structured data analysis.
-- Developed dashboards using Power BI and Tableau.
-- Communicated findings through data-driven insights.
-- Strengthened analytical thinking and problem-solving abilities.
+> 🚧 Add your certification badges here as you complete courses — for example, AWS, Oracle, NPTEL, or Cisco certifications. Keeping this section limited to certifications you've actually earned keeps your profile credible to recruiters.
 
-### Technologies
+---
+
+## 🟣 Coding Profiles
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Excel-Analytics-312E81?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Data_Querying-4338CA?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-Dashboards-6D28D9?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-Visualization-4F46E5?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data-Analytics-7C3AED?style=flat-square"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20your%20profile-1A1A2E?style=for-the-badge&logo=codechef&logoColor=5B4638)](#)
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🟣 GitHub Analytics
 
 <div align="center">
 
-| Recognition | Details |
-|:---|:---|
-| 🏢 **Thiranex Internship** | Successfully completed Data Analytics internship |
-| 📊 **Business Intelligence** | Built multiple interactive analytics dashboards |
-| 🤖 **Machine Learning Projects** | Developed supervised and unsupervised ML projects |
-| 📈 **Data Analytics Portfolio** | Built practical projects using real-world datasets |
-| 🎯 **Customer Segmentation** | Applied K-Means clustering to customer behavior analysis |
-| 🌡️ **Predictive Analytics** | Developed temperature prediction workflow using historical climate data |
-| 💼 **Deloitte Simulation** | Completed Deloitte Australia Data Analytics Job Simulation |
-| 📚 **Continuous Learning** | Building expertise across Data Analytics, BI and AI/ML |
+<img src="https://github-readme-stats.vercel.app/api?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=false" width="70%" />
 
 </div>
 
 ---
 
-# 🎓 Certifications
-
-## Microsoft / SkillCourse
+## 🟣 GitHub Trophies
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohdali-cse/">
-<img src="https://img.shields.io/badge/Microsoft_Power_BI-Self_Learning-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-## Deloitte Australia × Forage
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohdali-cse/">
-<img src="https://img.shields.io/badge/Deloitte_Australia-Data_Analytics_Job_Simulation-4F46E5?style=for-the-badge&logo=deloitte&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-## PW Skills × Microsoft
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohdali-cse/">
-<img src="https://img.shields.io/badge/PW_Skills-Basics_of_Data_Analytics-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=ali9090-ship-it&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </div>
 
 ---
 
-# 💻 Coding & Development Profiles
+## 🟣 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/mohdali-cse">
-<img src="https://img.shields.io/badge/GitHub-ENGINEERING_PROFILE-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohdali-cse/">
-<img src="https://img.shields.io/badge/LinkedIn-PROFESSIONAL_PROFILE-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&theme=redical&hide_border=true&bg_color=0d1117&color=B084F9&line=8B5CF6&point=C9A9FF" width="90%" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🟣 Contribution Snake
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohdali-cse&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED&ring_color=7C3AED&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=mohdali-cse&theme=transparent&hide_border=true&border_radius=12&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali-cse&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img src="https://raw.githubusercontent.com/ali9090-ship-it/ali9090-ship-it/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
 
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mohdali-cse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
-
-</div>
+> 🐍 To activate the snake animation, add the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repository.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/mohdali-cse">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohdali-cse&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true&custom_title=MOHD%20ALI%20ANSARI%20%E2%80%A2%20CONTRIBUTION%20ACTIVITY"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mohdali-cse/mohdali-cse/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mohdali-cse/mohdali-cse/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/mohdali-cse/mohdali-cse/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
-# 🎯 Current Focus
+## 🟣 Current Focus
 
 ```yaml
 learning:
-  - Advanced Python
-  - Machine Learning Algorithms
-  - Advanced SQL
-  - Scikit-learn
-  - Predictive Analytics
-  - Business Intelligence
-  - End-to-End Data Projects
+  - Python libraries: Pandas, NumPy, Matplotlib, Seaborn
+  - Machine Learning with Scikit-learn
+  - Advanced SQL queries and database management
+  - Business Intelligence and data visualization techniques
 
 building:
-  - Machine Learning Projects
-  - Power BI Dashboards
-  - Data Analytics Portfolio Projects
-  - Predictive Analytics Solutions
-  - Business Intelligence Reports
+  - Data Analytics and AI/ML projects
+  - Interactive dashboards using Power BI and Tableau
+  - Personal portfolio and professional presence
 
 exploring:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Data Engineering Fundamentals
-  - AI-Powered Analytics
-  - Open Source Development
-
-career_direction:
-  primary: "Data Analyst"
-  secondary: "AI / ML Engineer"
+  - Real-world datasets for analysis and visualization
+  - Data cleaning and feature engineering workflows
 
 open_to:
-  - Data Analytics Internships
-  - AI / ML Internships
-  - Business Intelligence Roles
-  - Research Collaborations
-  - Open Source Contributions
-  - Technical Collaborations
+  - Data Analyst internships
+  - AI/ML collaboration and study groups
+  - Open-source contributions
 ```
 
 ---
 
-# 🤝 Connect With Me
+## 🟣 Connect With Me
 
 <div align="center">
 
-### Let's build something meaningful with data and AI.
-
-<br/>
-
-<a href="mailto:ansariali0006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ansariali0006%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/mohdali-cse/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohd_Ali_Ansari-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mohdali-cse">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Mumbai-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_To-Internships-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Available_For-Collaboration-6D28D9?style=flat-square"/>
+[![Gmail](https://img.shields.io/badge/Gmail-ansariali0006%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdali--cse-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
+[![GitHub](https://img.shields.io/badge/GitHub-ali9090--ship--it-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali9090-ship-it)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
@@ -609,17 +245,8 @@ open_to:
 
 <div align="center">
 
-### `DATA → INSIGHT → INTELLIGENCE → IMPACT`
+*"Data doesn't speak for itself — it takes curiosity to ask it the right questions."*
 
-**Building intelligent, data-driven solutions one project at a time.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Data_Analytics-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-4338CA?style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,30:312E81,60:6D28D9,100:4F46E5"/>
