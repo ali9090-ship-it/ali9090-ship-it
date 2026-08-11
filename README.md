@@ -92,7 +92,7 @@ My current interests span:
 **🛠️ Tools & Platforms**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" title="GitHub" height="30"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" title="Google Colab" width="48" height="48"/>
@@ -105,8 +105,8 @@ My current interests span:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=nextdotjs&logoColor=white" title="Next.js" height="30"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white" title="Express" height="30"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" title="Express" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" width="48" height="48"/>
 
 </div>
@@ -266,7 +266,7 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ali9090-ship-it&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=ali9090-ship-it&theme=radical&no-frame=true&row=2&column=4" width="90%" />
 
 </div>
 
@@ -320,7 +320,7 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" title="LinkedIn" width="45" height="45"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ali9090-ship-it" target="_blank">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" height="45"/>
 </a>
 
 <br/><br/>
