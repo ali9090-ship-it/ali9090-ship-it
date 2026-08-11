@@ -26,8 +26,6 @@
 
 ## 🟣 About Me
 
-<img align="right" width="280" src="https://camo.githubusercontent.com/2ed6c1fab4a0ca4c6b80c1cc5acdee9fca411ed25985bf1142aabb1dd3aea44b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c69393039302d736869702d6974267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" />
-
 I'm **Mohd Ali**, a 3rd-year B.E. student building a foundation in **Data Analytics** and **AI/ML Engineering**. I'm focused on turning raw data into actionable insight — combining statistical thinking with hands-on programming across the full analytics stack: **Excel → SQL → Python → Power BI/Tableau → Machine Learning**.
 
 My current interests span:
@@ -38,8 +36,6 @@ My current interests span:
 - 🌐 **Full-Stack Basics** — HTML/CSS/TypeScript for building small applications and tools
 
 **🎯 Open To:** Data Analyst internships · AI/ML learning collaborations · Open-source contributions · Study groups on data science
-
-<br clear="right"/>
 
 ---
 
@@ -336,7 +332,7 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <div align="center">
 
-*"Data doesn't speak for itself — it takes curiosity to ask it the right questions."*
+*"Turning raw data into meaningful insights, and insights into smarter decisions."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
