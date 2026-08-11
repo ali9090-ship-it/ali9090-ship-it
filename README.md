@@ -52,7 +52,8 @@ My current interests span:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL" width="48" height="48"/>
 
 <br/><br/>
 
@@ -66,7 +67,7 @@ My current interests span:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" title="Power BI" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" title="Tableau" width="48" height="48"/>&nbsp;&nbsp;
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel2.svg" title="Excel" width="48" height="48"/>
 
 <br/><br/>
 
@@ -91,7 +92,7 @@ My current interests span:
 **🛠️ Tools & Platforms**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" title="GitHub" height="30"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" title="Google Colab" width="48" height="48"/>
@@ -104,8 +105,8 @@ My current interests span:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=nextdotjs&logoColor=white" title="Next.js" height="30"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white" title="Express" height="30"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" width="48" height="48"/>
 
 </div>
@@ -319,7 +320,7 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" title="LinkedIn" width="45" height="45"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ali9090-ship-it" target="_blank">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-icon.svg" title="GitHub" width="45" height="45"/>
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" height="45"/>
 </a>
 
 <br/><br/>
