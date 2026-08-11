@@ -264,6 +264,14 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <img src="https://github-profile-trophy-winning.vercel.app/?username=ali9090-ship-it&theme=radical&no-frame=true&row=2&column=4" width="90%" />
 
+<br/><br/>
+
+**🏅 GitHub Achievements**
+
+<a href="https://github.com/ali9090-ship-it" target="_blank">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" title="YOLO" width="70" height="70"/>
+</a>
+
 </div>
 
 ---
