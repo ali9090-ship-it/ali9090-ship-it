@@ -249,8 +249,8 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=false" width="70%" />
 
