@@ -249,10 +249,12 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=B084F9&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&title_color=B084F9&text_color=C9D1D9&bg_color=0D1117" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=false" width="70%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=B084F9&currStreakLabel=C9D1D9" width="65%" />
 
 </div>
 
@@ -261,10 +263,6 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 ## 🟣 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=ali9090-ship-it&theme=radical&no-frame=true&row=2&column=4" width="90%" />
-
-<br/><br/>
 
 **🏅 GitHub Achievements**
 
