@@ -249,12 +249,18 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=B084F9&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&title_color=B084F9&text_color=C9D1D9&bg_color=0D1117" width="48%" />
+<table>
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=B084F9&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=true&layout=compact&langs_count=8&title_color=B084F9&text_color=C9D1D9&bg_color=0D1117" />
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=B084F9&currStreakLabel=C9D1D9" width="65%" />
+<img width="72%" src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=B084F9&currStreakLabel=C9D1D9" />
 
 </div>
 
