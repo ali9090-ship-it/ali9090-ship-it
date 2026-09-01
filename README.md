@@ -284,7 +284,7 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&theme=redical&hide_border=true&bg_color=0d1117&color=B084F9&line=8B5CF6&point=C9A9FF" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&theme=radical&hide_border=true&bg_color=0D1117&color=B084F9&line=8B5CF6&point=C9A9FF&area=true&area_color=8B5CF6" width="90%" />
 
 </div>
 
