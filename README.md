@@ -360,27 +360,21 @@ THX-JUN0826-1264
 
 <div align="center">
 
-<h3>📈 Mohd Ali's Contribution Graph</h3>
+📅 Daily Contribution Calendar
 
-<a href="https://github.com/ali9090-ship-it">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&amp;custom_title=Mohd%20Ali%27s%20Contribution%20Graph&amp;bg_color=0D1117&amp;color=22D3EE&amp;line=55D6F5&amp;point=FFFFFF&amp;area=true&amp;area_color=164E63&amp;hide_border=true&amp;radius=8"
-    width="100%"
-    alt="Mohd Ali's GitHub Contribution Graph"
-  />
-</a>
+<img src="https://ghchart.rshah.org/8B5CF6/ali9090-ship-it" width="90%" />
 
 <br/><br/>
 
-<h3>📅 Daily Contribution Calendar</h3>
+📈 Mohd Ali's Contribution Graph
 
-<a href="https://github.com/ali9090-ship-it">
-  <img
-    src="https://ghchart.rshah.org/22D3EE/ali9090-ship-it"
-    width="100%"
-    alt="Mohd Ali's GitHub Contribution Calendar"
-  />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&custom_title=Mohd%20Ali%27s%20Contribution%20Graph&bg_color=0D1117&color=22D3EE&line=55D6F5&point=FFFFFF&area=true&area_color=164E63&hide_border=true" width="90%" />
+
+<br/><br/>
+
+📈 Activity Trend
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&theme=radical&hide_border=true&bg_color=0D1117&color=B084F9&line=8B5CF6&point=C9A9FF&area=true&area_color=8B5CF6" width="90%" />
 
 </div>
 
