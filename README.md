@@ -1,351 +1,218 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohd%20Ali&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<!-- ================= BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Ansari%20Mohd%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B084F9&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;AI+%2F+ML+Engineering+Student;Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
+<!-- ================= TYPING SVG ================= -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Engineer;B.Tech+AIML+Student;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Student](https://img.shields.io/badge/3rd%20Year-B.E%20Student-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Mumbai-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
-[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali9090-ship-it)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ali9090-ship-it&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ali9090-ship-it?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/ali9090-ship-it?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e)
+<!-- ================= BADGES ================= -->
+<img src="https://komarev.com/ghpvc/?username=ali9090-ship-it&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/ali9090-ship-it?tab=followers"><img src="https://img.shields.io/github/followers/ali9090-ship-it?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0f2027" alt="GitHub followers" /></a>
 
 </div>
 
 <br/>
 
-## 🟣 About Me
+## 👨‍💻 About Me
 
-I'm **Mohd Ali**, a 3rd-year B.E. student building a foundation in **Data Analytics** and **AI/ML Engineering**. I'm focused on turning raw data into actionable insight — combining statistical thinking with hands-on programming across the full analytics stack: **Excel → SQL → Python → Power BI/Tableau → Machine Learning**.
+<img align="right" src="https://skillicons.dev/icons?i=py" width="90" />
 
-My current interests span:
+I am a **second-year B.Tech (AIML) student** with a strong passion for **data analytics, artificial intelligence, and machine learning**. I enjoy transforming raw, messy data into clear, actionable insights that drive real business decisions.
 
-- 📊 **Data Analysis & Visualization** — SQL querying, dashboarding, and storytelling with data
-- 🤖 **AI / ML Fundamentals** — supervised learning, model evaluation, and feature engineering with scikit-learn
-- 🧮 **Programming Foundations** — C, C++, Java, Python for problem-solving and automation
-- 🌐 **Full-Stack Basics** — HTML/CSS/TypeScript for building small applications and tools
+- 🎯 **Career Goal:** Become a skilled Data Analyst who bridges the gap between raw data and strategic decision-making, while building a strong foundation in AI/ML.
+- 🧭 **Mission:** Solve real-world business problems using data-driven thinking and intelligent automation.
+- 📚 **Currently Focused On:** Advanced SQL, Python for Data Analysis, Power BI, Tableau, and core Machine Learning concepts.
+- 🔭 **Long-Term Vision:** Grow into a well-rounded AI & ML Engineer capable of designing intelligent, scalable, data-powered systems — while contributing meaningfully to the open-source community.
+- 💡 **Strength:** Strong problem-solving mindset backed by consistent practice of Data Structures & Algorithms in C++.
 
-**🎯 Open To:** Data Analyst internships · AI/ML learning collaborations · Open-source contributions · Study groups on data science
-
----
-
-## 🟣 Tech Stack
-
-<div align="center">
-
-**🧮 Programming Languages**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL" width="48" height="48"/>
-
-<br/><br/>
-
-**📊 Data Analytics & Visualization**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" title="Seaborn" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" title="Plotly" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" title="Power BI" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" title="Tableau" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel2.svg" title="Excel" width="48" height="48"/>
-
-<br/><br/>
-
-**🤖 AI / ML Tools**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda" width="48" height="48"/>
-
-<br/><br/>
-
-**🗄️ Databases**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="48" height="48"/>
-
-<br/><br/>
-
-**🛠️ Tools & Platforms**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" title="Google Colab" width="48" height="48"/>
-
-<br/><br/>
-
-**🌐 Web & Frontend**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" title="Express" width="48" height="48"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" width="48" height="48"/>
-
-</div>
-
----
-
-## 🟣 AI / ML Learning Focus
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Data Cleaning & Preprocessing** | 🟣🟣🟣⚪⚪ | Pandas/NumPy pipelines, handling missing data, feature engineering |
-| **Exploratory Data Analysis** | 🟣🟣🟣🟣⚪ | Statistical summaries, correlation analysis, visual storytelling |
-| **Supervised Machine Learning** | 🟣🟣⚪⚪⚪ | Regression & classification basics with scikit-learn |
-| **Data Visualization** | 🟣🟣🟣🟣⚪ | Power BI, Tableau, Matplotlib, Seaborn dashboards |
-| **SQL for Analytics** | 🟣🟣🟣🟣⚪ | Joins, window functions, aggregation, query optimization |
-
-</div>
-
----
-
-## 🟣 Featured Projects
-
-<details open>
-<summary><b>🛍️ Customer Shopping Behavior Analysis</b></summary>
 <br/>
 
-An end-to-end data analytics project uncovering purchasing patterns and business insights from customer transaction data.
-
-| | |
-|---|---|
-| **Stack** | Python (Pandas), PostgreSQL, Power BI |
-| **Scale** | 3,900 purchase records across 18 data columns |
-| **Deliverables** | Presentation deck + interactive Power BI dashboard |
-| **Type** | Data Analytics / Business Intelligence |
-
-Cleaned and prepared the dataset by imputing missing review ratings with median values, engineered features like age groups and purchase frequency, and connected the dataset to PostgreSQL for structured analysis. Built a Power BI dashboard and presentation to surface key insights: revenue differences by gender, a "smart shopper" segment of high-value discount users, top-rated products, the impact of shipping preference on spend, and subscription-driven revenue share.
-
-</details>
-
-<details>
-<summary><b>🎓 AMS — Academic Management System</b></summary>
-<br/>
-
-A system built to manage and streamline academic records and workflows.
-
-| | |
-|---|---|
-| **Stack** | TypeScript |
-| **Type** | Academic / Management System |
-| **Repository** | [ali9090-ship-it/AMS](https://github.com/ali9090-ship-it/AMS) |
-
-Built to explore structured application design and TypeScript fundamentals through a practical, real-world use case — managing academic data in an organized, maintainable way.
-
-</details>
-
-<details>
-<summary><b>🎵 SQL Music Store Analysis</b></summary>
-<br/>
-
-A SQL-based analytics project exploring a music store dataset to extract business insights.
-
-| | |
-|---|---|
-| **Stack** | SQL |
-| **Type** | Data Analysis |
-| **Repository** | [ali9090-ship-it/SQL-Music-Store-Analysis](https://github.com/ali9090-ship-it/SQL-Music-Store-Analysis) |
-
-Applied SQL querying techniques — joins, aggregations, and subqueries — to answer real business questions about sales, customers, and catalog performance.
-
-</details>
-
-> More projects are actively in progress as part of my Data Analytics & AI/ML learning journey — check my [repositories](https://github.com/ali9090-ship-it?tab=repositories) for the latest.
-
----
-
-## 🟣 Education
-
-**Bachelor of Engineering (B.E.)** — Computer Science & Engineering (AI/ML) — 3rd Year
-Specializing in Artificial Intelligence & Machine Learning, with a focused track toward **Data Analytics** and **Data Science**
-
-`Data Structures` `Python` `SQL` `Statistics` `Machine Learning` `Data Visualization`
-
----
-
-## 🟣 Certifications
-
-<details open>
-<summary><b>📜 Tutedude — Data Analytics</b></summary>
-<br/>
-
-Certificate of Completion for the **Tutedude Data Analytics** course.
-
-| | |
-|---|---|
-| **Issued** | 26 June 2026 |
-| **Credential ID** | `TD-ANSA-DA-1711` |
-
-</details>
-
-<details>
-<summary><b>📜 Physics Wallah × Microsoft — Basics of Data Analytics</b></summary>
-<br/>
-
-Completed the **Basics of Data Analytics** program, co-branded with Microsoft.
-
-| | |
-|---|---|
-| **Issued** | 13 June 2026 |
-| **Credential ID** | `1f2be3dd-7d24-4b3c-a816-2a2536fca8c8` |
-
-</details>
-
-<details>
-<summary><b>📜 Deloitte (via Forage) — Data Analytics Job Simulation</b></summary>
-<br/>
-
-Completed a **Deloitte job simulation**, covering practical tasks in data analysis and forensic technology.
-
-| | |
-|---|---|
-| **Issued** | 7 July 2026 |
-| **Credential ID** | `wyAYMaJ5B6qmAQGBX` |
-
-</details>
-
-<details>
-<summary><b>📜 Thiranex — Data Analytics Internship</b></summary>
-<br/>
-
-Completed a **Data Analytics internship**, recognized with a Certificate of Achievement.
-
-| | |
-|---|---|
-| **Duration** | 08 Jun 2026 – 07 Jul 2026 |
-| **Credential ID** | `THX-JUN0826-1264` |
-
-</details>
-
----
-
-## 🟣 GitHub Analytics
+## 💻 Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=B084F9&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-</td>
-<td width="50%" valign="top">
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali9090-ship-it&theme=radical&hide_border=true&layout=compact&langs_count=8&title_color=B084F9&text_color=C9D1D9&bg_color=0D1117" />
-</td>
-</tr>
-</table>
+**Programming**
 
-<img width="72%" src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=B084F9&currStreakLabel=C9D1D9" />
+<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql" />
+
+**Data Analytics**
+
+<img src="https://skillicons.dev/icons?i=powerbi,tableau" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+
+**Machine Learning & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postgres" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
 
 </div>
 
----
+<br/>
 
-## 🟣 GitHub Trophies
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ali9090-ship-it&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali9090-ship-it&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
+</div>
+
+> ⚠️ **Note:** GitHub Stats/Top Languages use the shared public instance of *github-readme-stats*, which can occasionally show "downtime due to rate limiting" during high-traffic periods (this is a known, widely-reported issue with the free public service, not an error in your file). It usually recovers within minutes. For guaranteed uptime, you can deploy your own free instance on Vercel by forking [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and swapping the domain above for your own `.vercel.app` URL.
+
+<br/>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ali9090-ship-it&theme=tokyonight&hide_border=true&background=0f2027&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/ali9090-ship-it" alt="ali9090-ship-it's GitHub contribution graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=38BDF8&line=38BDF8&point=ffffff" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ali9090-ship-it/ali9090-ship-it/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚙️ **Setup required for the snake animation above:** this image only appears after you enable it in *your own* profile repo. In your `ali9090-ship-it/ali9090-ship-it` repo, go to **Settings → Actions → General** and enable Actions, then create `.github/workflows/snake.yml` with:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ali9090-ship-it
+>           outputs: |
+>             dist/github-contribution-grid-snake-dark.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> Once the action runs once, the animation will render automatically.
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ali9090-ship-it&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</div>
+
+<br/>
+
+## 📂 Featured Projects
 
 <div align="center">
 
-**🏅 GitHub Achievements**
-
-<a href="https://github.com/ali9090-ship-it" target="_blank">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" title="YOLO" width="70" height="70"/>
-</a>
+| Project | Description | Tech Stack |
+|---|---|---|
+| 📊 **Power BI Sales Dashboard** | Interactive dashboard analyzing sales trends and KPIs | Power BI, DAX |
+| 📈 **Tableau Business Dashboard** | Visual analytics dashboard for business performance tracking | Tableau |
+| 📑 **Excel Data Dashboard** | Automated Excel dashboard with dynamic charts & pivot tables | Excel, Power Query |
+| 🤖 **Machine Learning Projects** | Predictive models solving real-world classification/regression problems | Python, Scikit-learn |
+| ⚙️ **Python Automation Scripts** | Scripts to automate repetitive data workflows | Python |
+| 🗄️ **SQL Portfolio** | Collection of advanced SQL queries and database projects | SQL, PostgreSQL |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing skills and projects | HTML, CSS, JS |
 
 </div>
 
----
+> 📌 *Update the links above to point directly to your pinned repositories once they're ready.*
 
-## 🟣 Contribution Activity
+<br/>
+
+## 📜 Certifications
+
+- 🎓 Forage Job Simulation Certificates
+- 🏅 Hackathon Participation
+- 🌱 Open Source Contributions
+- 📈 Consistent GitHub Contribution Activity
+
+<br/>
+
+## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali9090-ship-it&theme=redical&hide_border=true&bg_color=0d1117&color=B084F9&line=8B5CF6&point=C9A9FF" width="90%" />
+<img src="https://img.shields.io/badge/SQL%20Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+<img src="https://img.shields.io/badge/Data%20Analytics-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge&logo=numpy&logoColor=white" alt="Statistics" />
+<img src="https://img.shields.io/badge/DSA%20in%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA" />
 
 </div>
 
----
+<br/>
 
-## 🟣 Contribution Snake
+## 🎯 2026 Goals
+
+- ✅ Master Advanced SQL and build a strong query portfolio
+- ✅ Complete at least 5 end-to-end Machine Learning projects
+- ✅ Build and publish 3 professional Power BI / Tableau dashboards
+- ✅ Contribute to 3+ open-source repositories
+- ✅ Strengthen DSA fundamentals in C++
+- ✅ Launch a personal portfolio website
+
+<br/>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ali9090-ship-it/ali9090-ship-it/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<a href="https://www.linkedin.com/in/mohdali-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/ali9090-ship-it"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
-> 🐍 To activate the snake animation, add the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repository.
+> 📌 *Replace the Email and Portfolio links above with your actual contact details.*
 
----
+<br/>
 
-## 🟣 Current Focus
+## 💬 Favorite Quote
 
 <div align="center">
 
-| 📚 Learning | 🏗️ Building | 🔎 Exploring | 🎯 Open To |
-|---|---|---|---|
-| Python libs — Pandas, NumPy, Matplotlib, Seaborn | Data Analytics & AI/ML projects | Real-world datasets for analysis & visualization | Data Analyst internships |
-| Machine Learning with Scikit-learn | Interactive dashboards in Power BI & Tableau | Data cleaning & feature engineering workflows | AI/ML collaboration & study groups |
-| Advanced SQL & database management | Personal portfolio & professional presence | EDA techniques on new domains | Open-source contributions |
-| Business Intelligence & data viz techniques | Deloitte-style forensic/data-analysis case work | Cloud & AI/ML tooling ecosystem | Mentorship from working analysts/engineers |
+*"Without data, you're just another person with an opinion."*
+**— W. Edwards Deming**
 
 </div>
 
----
-
-## 🟣 Connect With Me
+<br/>
 
 <div align="center">
 
-<a href="mailto:ansariali0006@gmail.com">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" title="Gmail" width="45" height="45"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohdali-cse" target="_blank">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" title="LinkedIn" width="45" height="45"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ali9090-ship-it" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" height="45"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<br/><br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-ansariali0006%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdali--cse-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
-[![GitHub](https://img.shields.io/badge/GitHub-ali9090--ship--it-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali9090-ship-it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-*"Turning raw data into meaningful insights, and insights into smarter decisions."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+**⭐ From ideas to insights — let's build something meaningful with data. ⭐**
 
 </div>
