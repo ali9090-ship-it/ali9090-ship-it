@@ -11,7 +11,7 @@
 ![Student](https://img.shields.io/badge/3rd%20Year-B.E%20Student-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Mumbai-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](https://mohdaliportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
 [![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali9090-ship-it)
