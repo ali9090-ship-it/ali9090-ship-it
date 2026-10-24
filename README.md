@@ -344,7 +344,7 @@ Completed a **Data Analytics internship**, recognized with a Certificate of Achi
 [![Gmail](https://img.shields.io/badge/Gmail-ansariali0006%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariali0006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdali--cse-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali-cse)
 [![GitHub](https://img.shields.io/badge/GitHub-ali9090--ship--it-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali9090-ship-it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](https://mohdaliportfolio.vercel.app/)
 
 </div>
 
